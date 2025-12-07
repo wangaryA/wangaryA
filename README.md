@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm wangaryA
 
-<!--
-**wangaryA/wangaryA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student | Full Stack Developer**
 
-Here are some ideas to get you started:
+I'm a student passionate about building web applications and learning new technologies. I enjoy working on projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React, Next.js
+**Backend:** Node.js, Python, Prisma
+**Tools:** Git, VS Code, Vercel
+
+---
+
+### Featured Projects
+
+**InsideMySchool** - A platform for exploring school transparency reports with search, filtering, and an interactive quiz to find the right school.
+
+**StarBoyM** - A clothing brand website built for a friend.
+
+**GTA Roleplay Website** - A themed website project.
+
+---
+
+### Currently
+
+- Building full-stack web applications
+- Learning new frameworks and technologies
+- Open to collaborating on interesting projects
+
+---
+
+*Feel free to explore my repositories and reach out!*
